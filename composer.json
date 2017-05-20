@@ -1,0 +1,11 @@
+{
+    "name": "weto/test",
+    "description": "Just a test",
+    "authors": [
+        {
+            "name": "Richard Ruibar",
+            "email": "richard.ruibar@weto.cz"
+        }
+    ],
+    "require": {}
+}
